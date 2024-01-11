@@ -1,0 +1,2 @@
+# reading-notes
+class journal
