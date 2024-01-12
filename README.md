@@ -4,4 +4,4 @@ Class journal
 
 wooohooo!!!!
 
-https://github.com/jrsmithma17
+[https://github.com/jrsmithma17]
