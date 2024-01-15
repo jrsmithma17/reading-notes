@@ -4,7 +4,7 @@ Class journal
 
 wooohooo!!!!
 
-(Check out my profile [https://github.com/jrsmithma17])
+(https://github.com/jrsmithma)[https://github.com/jrsmithma17]
 
 
 
