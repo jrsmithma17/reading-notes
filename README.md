@@ -4,7 +4,8 @@ Class journal
 
 wooohooo!!!!
 
-My Profile link [to git hub ](https://jrsmithma17.github.io/reading-notes/)
+My Profile link [to git hub ](https://github.com/jrsmithma17)
+
 
 
 
