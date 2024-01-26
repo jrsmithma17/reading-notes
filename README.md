@@ -4,7 +4,7 @@ Class journal
 
 
 
-My Profile link [to git hub ](https://github.com/jrsmithma17)
+[My Profile link to git hub ](https://github.com/jrsmithma17)
 
 
 
