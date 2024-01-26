@@ -20,6 +20,8 @@ You probably have gathered I'm an aries my birthday is March 29th.
 
 Nice to meet you!
 
+## Table of contents
+
 ## About Me 
 I am 30 years old and I'm pretty much an introvert. I am a huge MeganTheeStallion fan. She inspires me deeply to better myself and to keep going even when the whole world is against you! I love to watch movies and chill with my family. I work in medical claims and it can be mentally exhausting. Definitely taking these classes to help build my empire and to further my knowledge of tech. 
 
@@ -29,7 +31,7 @@ I am 30 years old and I'm pretty much an introvert. I am a huge MeganTheeStallio
 ### Proud Dog Dad 
 I have four fur babies! Luna and Lola are my girls. Chino and Dino are my boys.  
 
-## Table of contents
+
 
 
 
