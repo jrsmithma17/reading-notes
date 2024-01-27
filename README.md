@@ -13,14 +13,11 @@ Class journal
 
 # Hello!
 
-![Aries-zodiac-as_333093100](https://github.com/jrsmithma17/reading-notes/assets/156276958/1f2488a0-5ab1-4c39-a446-d1b09d4da2a1)
-You probably have gathered I'm an aries my birthday is March 29th. 
 
 !![JohnnyRay](https://github.com/jrsmithma17/reading-notes/assets/156276958/991738b1-281d-485b-9f82-eb104f6fa718)
 
-Nice to meet you!
 
-## Table of contents
+ [Table of contents](https://jrsmithma17.github.io/reading-notes/tableofcontents)
 
 ## About Me 
 I am 30 years old and I'm pretty much an introvert. I am a huge MeganTheeStallion fan. She inspires me deeply to better myself and to keep going even when the whole world is against you! I love to watch movies and chill with my family. I work in medical claims and it can be mentally exhausting. Definitely taking these classes to help build my empire and to further my knowledge of tech. 
