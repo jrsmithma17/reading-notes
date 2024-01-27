@@ -7,16 +7,6 @@ Class journal
 [My Profile link to git hub ](https://github.com/jrsmithma17)
 
 
-
-
-
-
-# Hello!
-
-
-!![JohnnyRay](https://github.com/jrsmithma17/reading-notes/assets/156276958/991738b1-281d-485b-9f82-eb104f6fa718)
-
-
  [Table of contents](https://jrsmithma17.github.io/reading-notes/tableofcontents)
 
 ## About Me 
